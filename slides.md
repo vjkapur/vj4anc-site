@@ -19,7 +19,7 @@ img {
     max-width: 100%;
 }
 </style>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>
 $('#lightSlider').lightSlider({
     gallery: true,
@@ -31,11 +31,11 @@ $('#lightSlider').lightSlider({
 </script>
 <div class="demo">
     <ul id="lightSlider">
-        <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-1.jpg">
-            <img src="http://sachinchoolur.github.io/lightslider/img/cS-1.jpg" />
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-1.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-1.jpg" />
         </li>
-        <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-2.jpg">
-            <img src="http://sachinchoolur.github.io/lightslider/img/cS-2.jpg" />
+        <li data-thumb="https://sachinchoolur.github.io/lightslider/img/thumb/cS-2.jpg">
+            <img src="https://sachinchoolur.github.io/lightslider/img/cS-2.jpg" />
         </li>
     </ul>
 </div>
