@@ -5,6 +5,9 @@ google_analytics: G-LGDE2KRY1D
 header_pages:
   - vj.md
   - 5c07.md
+  - ancs
+  - positions
+  - issues
 minima:
   social_links:
     twitter: vjkapur
