@@ -1,2 +1,2 @@
-## About VJ
-about
+## VJ
+A biography would go here.
