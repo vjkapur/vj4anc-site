@@ -1,3 +1,6 @@
 theme: minima
 name: vj4anc
 # title: null
+header_pages:
+  - vj.md
+  - 5c07.md
