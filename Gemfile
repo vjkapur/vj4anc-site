@@ -8,7 +8,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
 
-gem 'minimal-mistakes-jekyll'
+# gem 'minimal-mistakes-jekyll'
 
 # gem 'http_parser.rb', '0.8.0'
 # gem 'eventmachine', '1.2.7'
