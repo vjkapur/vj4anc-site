@@ -19,11 +19,11 @@ Commissioners may also initiate recommendations for improving city services, con
 ## Lexicon
 Advisory Neighborhood Commission
 : *(aka **ANC**, **Commission**)*
-: identified by DC Ward and a letter (e.g. **5C**), a Commission is a neighborhood body and [the boundaries](https://opendata.dc.gov/datasets/advisory-neighborhood-commissions-from-2023/explore) over which it exercises *great weight*. While the [eight Wards of DC](https://opendata.dc.gov/datasets/wards-from-2022) are generally redistricted to equal population after every decennial US Census, they are not split into the same number of Commissions
+: identified by DC Ward and a letter (e.g. **5C**), a neighborhood body and [the political boundaries](https://opendata.dc.gov/datasets/advisory-neighborhood-commissions-from-2023/explore) over which it exercises *great weight* in DC Government affairs. While the [eight Wards of DC](https://opendata.dc.gov/datasets/wards-from-2022) are generally redistricted to equal population after every decennial US Census, they are not split into the same number of Commissions
 
 Single Member District
 : (aka **SMD**)
-: identified by the Commission and a two-digit number (e.g. **5C07**), an SMD is a district within a Commission's boundaries that elects one member of that Commission; while Commissions around DC may contain anywhere from 2-12 members, SMDs are (somewhat) strictly kept to 2000±100 residents (per the preceding decennial US Census).
+: identified by the Commission and a two-digit number (e.g. **5C07**), a district within a Commission's boundaries that elects one member of that Commission; while Commissions around DC may contain anywhere from 2-12 members, SMDs are (somewhat) strictly kept to 2000±100 residents (per the preceding decennial US Census).
 
 Advisory Neighborhood Commissioner
 : (aka also **ANC**, **Commissioner**)
