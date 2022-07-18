@@ -7,4 +7,4 @@ header:
   caption: "Rhode Island Ave. at night (photo by [Kelly Bell](http://kellybellphotography.com))"
 layout: single
 ---
-A rundown of some specific licenses and development projects currently under consideration, to illustrate my approach to things.
+**Placeholder:** A rundown of some specific licenses and development projects currently under consideration, to illustrate my approach to things.
