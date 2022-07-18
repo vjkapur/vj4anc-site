@@ -1,6 +1,6 @@
 ---
 title: VJ for ANC in 5C07
-excerpt: I'm VJ and I'm running for ANC
+excerpt: " "
 header:
   overlay_image: /assets/images/voting.jpg
   caption: "Parent-Child Voting (photo by [Kelly Bell](http://kellybellphotography.com))"
