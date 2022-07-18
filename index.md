@@ -6,7 +6,7 @@ header:
   caption: "Parent-Child Voting (photo by [Kelly Bell](http://kellybellphotography.com))"
 layout: splash
 ---
-I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want to make our neighborhood and city a safe, vibrant, and welcoming place for old and new neighbors alike. I still have some more content to write on these pages about myself, my priorities, and the issues currently in front of ANC 5C, but I'm sharing this site now because it's never too early to do the work.
+I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want to make our neighborhood and city a safe, vibrant, and welcoming place for long-term, new, and future neighbors alike. I still have some more content to write on these pages about myself, my priorities, and the issues currently in front of ANC 5C, but I'm sharing this site now because it's never too early to do the work.
 
 The timeline:
 - **NOW:** Folks within the SMD that want to help can [check their voter registration](https://www.dcboe.org/Voters/Register-To-Vote/Check-Voter-Registration-Status) (note: it doesn't matter whether you're registered with a party or which one!) and check if they're in [the new 5C07 boundaries](/5c07/), and encourage your neighbors to do the same.
