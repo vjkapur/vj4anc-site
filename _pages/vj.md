@@ -7,4 +7,4 @@ header:
   caption: "Horsey Ride at the US Capitol (photo by [Kelly Bell](http://kellybellphotography.com))"
 layout: single
 ---
-A biography would go here.
+> **Placeholder:** A biography would go here.
