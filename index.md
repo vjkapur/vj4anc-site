@@ -14,7 +14,7 @@ The timeline:
 - **August 10th:** Ballot petitions are due. Officially, I'll need 25 signatures of duly registered voters within the SMD's boundaries. Practically speaking, I'll want a buffer of... as many as I can get.
 - **November 8th:** the *END* of voting. As with the last few election cycles, folks will have the chance to vote by mail, dropbox, any Early Voting Center, or any day-of Precinct. The exact locations for early and day-of voting, and dates for early voting, are not final, but the draft information is [available for review and commenting](https://www.dcboe.org/Elections/2022-Elections). I expect most of us will be voting at the dropbox in front of **Woodridge Library** or at the new early voting center slated for the Woodridge Library community room.
 
->_**Note:**_ While Langdon Rec Center was both an early voting and day-of voting center during the Primaries in June, it is not slated to be a voting center at all this round. Woodridge Library is also not slated to be a day-of voting center (making **Burroughs Elementary** the closest day-of polling place for 5C07 residents). I'll be submitting comments advocating for day-of voting at the library and I hope others will too.
+>_**Note:**_ While Langdon Rec Center was both an early and day-of voting center during the Primaries in June, it is not slated to be a voting center at all this round. Woodridge Library is also not slated to be a day-of voting center (making **Burroughs Elementary** the closest day-of polling place for 5C07 residents). I'll be submitting comments advocating for day-of voting at the library and I hope others will too.
 
 *[SMD]: Single-Member District
 *[ANC]: Advisory Neighborhood Commission (or Commissioner)
