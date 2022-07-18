@@ -16,7 +16,7 @@ A Commissioner’s main job is to be their neighborhood’s official voice in ad
 
 Commissioners may also initiate recommendations for improving city services, conduct neighborhood improvement programs, and monitor resident complaints.  
 
->End borrowed content
+>end of borrowed content
 
 ## Lexicon
 Advisory Neighborhood Commission
