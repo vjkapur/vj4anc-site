@@ -21,7 +21,7 @@ Commissioners may also initiate recommendations for improving city services, con
 ## Lexicon
 Advisory Neighborhood Commission
 : *(aka **ANC**, **Commission**)*
-: identified by DC Ward and a letter (e.g. **5C**), a neighborhood body and [the political boundaries](https://opendata.dc.gov/datasets/advisory-neighborhood-commissions-from-2023/explore) over which it exercises *great weight* in DC Government affairs. While the [eight Wards of DC](https://opendata.dc.gov/datasets/wards-from-2022) are generally redistricted to equal population after every decennial US Census, they are not split into the same number of Commissions
+: identified by DC Ward and a letter (e.g. **5C**), a neighborhood body and [the political boundaries](https://opendata.dc.gov/datasets/advisory-neighborhood-commissions-from-2023/explore) over which it exercises *great weight* in DC Government affairs. While the [eight Wards of DC](https://opendata.dc.gov/datasets/wards-from-2022) are generally redistricted to equal population after every decennial US Census, they are not split into the same number of Commissions, so one may contain anywhere from around 4,000 to around 24,000 residents (before population growth since the last Census).
 
 Single Member District
 : *(aka **SMD**)*
