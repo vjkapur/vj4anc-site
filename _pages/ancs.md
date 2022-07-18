@@ -24,11 +24,11 @@ Advisory Neighborhood Commission
 : identified by DC Ward and a letter (e.g. **5C**), a neighborhood body and [the political boundaries](https://opendata.dc.gov/datasets/advisory-neighborhood-commissions-from-2023/explore) over which it exercises *great weight* in DC Government affairs. While the [eight Wards of DC](https://opendata.dc.gov/datasets/wards-from-2022) are generally redistricted to equal population after every decennial US Census, they are not split into the same number of Commissions
 
 Single Member District
-: (aka **SMD**)
+: *(aka **SMD**)*
 : identified by the Commission and a two-digit number (e.g. **5C07**), a district within a Commission's boundaries that elects one member of that Commission; while Commissions around DC may contain anywhere from 2-12 members, SMDs are (somewhat) strictly kept to 2000±100 residents (per the preceding decennial US Census).
 
 Advisory Neighborhood Commissioner
-: (aka also **ANC**, **Commissioner**)
+: *(aka also **ANC**, **Commissioner**)*
 : an elected member of a Commission, representing one SMD within the Commission. While Commissioners will focus on, and be deferred to regarding, issues within their SMD; it's only the Commission itself that formally gets *great weight*, exercised on the boundaries of the Commission as a whole.
 
 great weight
