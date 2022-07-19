@@ -3,7 +3,7 @@ title: " "
 excerpt: " "
 header:
   overlay_image: /assets/images/voting.jpg
-  caption: "Parent-Child Voting (photo by [Kelly Bell](http://kellybellphotography.com))"
+  caption: "[Parent-Child Voting](/assets/images/voting.jpg)"
 layout: splash
 ---
 I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want to make our neighborhood and city a safe, vibrant, and welcoming place for long-term, new, and future neighbors alike. I still have some more content to write on these pages about myself, my priorities, and the issues currently in front of ANC 5C, but I'm sharing this site now because it's never too early to do the work.

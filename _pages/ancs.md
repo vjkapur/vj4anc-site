@@ -4,7 +4,7 @@ title: "About ANCs"
 excerpt: ""
 header:
   overlay_image: /assets/images/woodridge-library.jpg
-  caption: "Books at Woodridge Library (photo by [Kelly Bell](http://kellybellphotography.com))"
+  caption: "[Books at Woodridge Library](/assets/images/woodridge-library.jpg)"
 layout: single
 ---
 ## What are Advisory Neighborhood Commission(er)s?
