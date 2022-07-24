@@ -11,7 +11,9 @@ I'm VJ or, in BOE terms, Vijay "VJ" Kapur. I have a lot to say/write, but not us
 
 I am, in no particular order and among other things:
 - parent to Melina, 5
-- spouse to Kelly
+- changer of batteries, supergluer of plastic crowns
+- spouse to [Kelly](https://kellybellphotography.com)
+- charger of camera batteries, organizer of memory cards
 - human caretaker to dogs Milo and Leela
 - an eight-year resident of 5C07
 - a lifelong resident of the metro area (born in Arlington, raised in Fairfax and Montgomery Counties)
