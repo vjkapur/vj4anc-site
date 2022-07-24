@@ -19,11 +19,17 @@ I am, in no particular order and among other things:
 - a John Burroughs Elementary/DCPS parent
 - a former and long-time Petit Scholars parent
 - a regular at Zeke's in the morning and Public Option at night
+- a musician, songwriter, and organizer of [large](https://strangevictories.bandcamp.com/) and [unwieldy](https://thecascade.bandcamp.com/) ensembles
+- an alum of George Washington (BS '06) and Johns Hopkins (MS '08) Universities
 - a computer scientist, software engineer, and government contractor
 - professionally experienced in matters ranging from law enforcement and defense to transportation and public health
 - recreationally experienced in matters ranging from zoning and liquor licensing to incessant 311 and TSI requests
+- always the first person to make a spreadsheet
 - a walker, transit rider, biker, and driver, in that order.
 - 
 
 *[BOE]: DC Board of Elections
 *[TSI]: Traffic Safety Investigation
+*[DCPS]: District of Columbia Public Schools
+*[BS]: Bachelor of Science
+*[MS]: Master of Science
