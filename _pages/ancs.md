@@ -8,7 +8,8 @@ header:
 layout: single
 ---
 ## What are Advisory Neighborhood Commission(er)s?
->The following content is borrowed from [Commissioner Costello](https://anc5b05.com/faqs) with permission, because I can't improve on it.
+The following content is borrowed from [Commissioner Costello](https://anc5b05.com/faqs) with permission, because I can't improve on it.
+{: .notice}
 
 First established in 1976, Advisory Neighborhood Commissions are non-partisan, neighborhood bodies made up of locally-elected representatives called Advisory Neighborhood Commissioners. ANCs were established to bring government closer to the people, and to bring the people closer to government. Commissioners serve two-year terms without pay. 
 
@@ -16,7 +17,8 @@ A Commissioner’s main job is to be their neighborhood’s official voice in ad
 
 Commissioners may also initiate recommendations for improving city services, conduct neighborhood improvement programs, and monitor resident complaints.  
 
->end of borrowed content
+end of borrowed content
+{: .notice}
 
 ## Lexicon
 Advisory Neighborhood Commission
