@@ -6,7 +6,7 @@ header:
   caption: "[Parent-Child Voting](/assets/images/voting.jpg)"
 layout: single
 ---
-I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want to make our neighborhood and city safe, vibrant, and welcoming for long-term, new, and future neighbors alike. I still have some more content to write on these pages about myself, my priorities, and the issues currently in front of ANC 5C, but I'm sharing this site now because it's never too early to do the work.
+I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want to make our neighborhood and city safe, vibrant, and welcoming for long-term, new, and future neighbors alike. You can read more about what I'd do as Commissioner on the [Priorities](/priorities/) page.
 
 ### The timeline:
 - **NOW (7/28 update):** I've secured ballot access, but am still collecting signatures for buffer when I get a chance. It's unclear that we'll have a competitive race on our hands, though I'm still waiting and prepared for one. If you or anyone you know might want to run in some of the nearby seats (particularly 5B03 and 5C06, where nobody has declared yet), please put them in touch with me!
