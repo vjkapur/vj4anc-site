@@ -11,9 +11,7 @@ I'm VJ or, in BOE terms, Vijay "VJ" Kapur. I have a lot to say/write, but not us
 
 I am, in no particular order and among other things:
 - parent to Melina, 5
-- changer of batteries, supergluer of plastic crowns
 - spouse to [Kelly](https://kellybellphotography.com)
-- charger of camera batteries, organizer of memory cards
 - human caretaker to dogs Milo and Leela
 - an eight-year resident of 5C07
 - a lifelong resident of the metro area (born in Arlington, raised in Fairfax and Montgomery Counties)
@@ -26,9 +24,8 @@ I am, in no particular order and among other things:
 - a computer scientist, software engineer, and government contractor
 - professionally experienced in matters ranging from law enforcement and defense to transportation and public health
 - recreationally experienced in matters ranging from zoning and liquor licensing to incessant 311 and TSI requests
-- always the first person to make a spreadsheet
 - a walker, transit rider, biker, and driver, in that order.
-- 
+- always the first person to make a spreadsheet
 
 *[BOE]: DC Board of Elections
 *[TSI]: Traffic Safety Investigation
