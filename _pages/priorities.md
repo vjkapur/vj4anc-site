@@ -8,6 +8,10 @@ header:
 layout: single
 ---
 # Traffic Safety
+
+
+As Commissioner, I will set up a dashboard to coordinate and consolidate efforts on a block-by-block and intersection-by-intersection basis within our SMD, to keep pressure on ddot to prioritize our neighborhood for improvements, and make sure we leave no existing Service Request to languish without follow-up inquiry. Neighboring commissioners (such as in 5B03 and 5B05) have set up similar tracking systems and have made significant progress on the installation of safety improvements, and I believe I can build upon their methods even further, and collaborate across both SMD and ANC boundaries to address this broad and systemic problem.
+
 My top priority is carefully tracking the installation of traffic safety improvements in our neighborhood on a block-by-block and intersection-by-intersection basis. I'll create a dashboard to track investigations and incidents within our SMD, so we can keep broad and persistent pressure on DDOT to supply us with the improvements we deserve, with multiple visualization options (map, table) and some provision for exporting to print for broader distribution.
 
 That said, it's unfortunate that this critically important issue has to be approached through squeaky-wheel agitating for every piecemeal improvement. As Commissioner, I'll introduce resolutions in 5C to support Council legislation for broader improvements, including the [Walk Without Worry Amendment Act](https://lims.dccouncil.us/Legislation/B24-0566) and the [Safe Routes to School Expansion Regulation Amendment Act](https://lims.dccouncil.us/Legislation/B24-0565). Once enacted, I'll work to make sure our neighborhood gets the improvements the new laws are meant to guarantee.
