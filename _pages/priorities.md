@@ -8,7 +8,7 @@ header:
 layout: single
 ---
 <style>
-  .caption {font-weight: bold; front-size: 8px; text-align: center}
+  p.caption {font-weight: bold; font-size: 12px; text-align: center}
 </style>
 # Traffic Safety
 As Commissioner, my top priority will be advocating for any and all measures to reduce unsafe driver behavior in our neighborhoods. We cannot afford to defer or deliberate improvements to our road design, or default to unsafe conditions.
