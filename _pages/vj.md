@@ -24,7 +24,7 @@ I am, in no particular order and among other things:
 - a computer scientist, software engineer, and government contractor
 - professionally experienced in matters ranging from law enforcement and defense to transportation and public health
 - recreationally experienced in matters ranging from zoning and liquor licensing to incessant 311 and TSI requests
-- a walker, transit rider, biker, and driver, in that order.
+- a walker, transit rider, biker, and driver, in that order
 - always the first person to make a spreadsheet
 
 *[BOE]: DC Board of Elections
