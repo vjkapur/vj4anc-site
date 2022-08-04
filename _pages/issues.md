@@ -1,6 +1,6 @@
 ---
 permalink: /issues/
-title: "Issues"
+title: "The Issues"
 excerpt: ""
 header:
   overlay_image: /assets/images/RIA-at-night.jpg

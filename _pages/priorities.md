@@ -1,6 +1,6 @@
 ---
 permalink: /priorities/
-title: "Priorities"
+title: "My Priorities"
 excerpt: ""
 header:
   overlay_image: /assets/images/langdon-park-playground.jpg

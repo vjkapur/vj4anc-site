@@ -1,7 +1,7 @@
 ---
 permalink: /ancs/
-title: "About ANCs"
-excerpt: ""
+title: "On ANCs"
+excerpt: "Background on the Office and Terms"
 header:
   overlay_image: /assets/images/woodridge-library.jpg
   caption: "[Books at Woodridge Library](/assets/images/woodridge-library.jpg)"

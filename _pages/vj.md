@@ -1,6 +1,6 @@
 ---
 permalink: /vj/
-title: "About VJ"
+title: "Meet VJ"
 excerpt: " "
 header:
   overlay_image: /assets/images/horsey-ride.jpg
