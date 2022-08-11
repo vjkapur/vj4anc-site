@@ -19,6 +19,8 @@ I dropped off 43 signatures in total for ballot access, to meet a minimum requir
 
 The declaration period is over, and nobody else pulled papers, let alone submitted signatures, in 5C07. We can exhale a bit, but there will still be a 10-day signature challenge period, the potential for a write-in campaign, and the important work of earning neighbors' trust for the next few months.
 
+I'll also continue writing up my [Issues](/issues/) pages, with meeting summaries and calls to action to advance projects around the SMD and beyond, building the dashboard to track concerns/service requests, and submitting TSIs that will conclude after I take office.
+
 ### The Horserace
 Meanwhile, there are some competitive elections nearby with major consequences for what we can get done in 5C and with 5B (and A/D/E/F where we all spend plenty of time); for folks who are interested a horserace, we have plenty of that ahead of us. I'll write up some specifics at some point, but feel free to reach out for more details on competitive nearby races; if you're reading this from outside of [5C07](/5c07/), you may be voting in one!
 
