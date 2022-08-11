@@ -30,3 +30,4 @@ Today, the best thing you can do is familiarize yourself with the (*new!*) maps,
 *[ANC]: Advisory Neighborhood Commission (or Commissioner)
 *[DC]: District of Columbia, historically containing a city of Washington, DC
 *[BOE]: DC Board of Elections
+*[TSI]: Traffic Safety Investigation
