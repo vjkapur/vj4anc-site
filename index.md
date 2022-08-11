@@ -17,7 +17,7 @@ ANC candidate declarations are over and I'll be unopposed on the 5C07 ballot, bu
 ### Campaign Status
 I dropped off 43 signatures in total for ballot access, to meet a minimum requirement of 25 after any challenges. I appreciate everyone's support, the many conversations about the neighborhood, and the miles I walked making the rounds!
 
-The declaration period is over, and nobody else pulled papers, let alone submitted signatures, in 5C07. We can exhale a bit, but there will still be a 10-day signature challenge period, the potential for a write-in campaign, and the important work of earning neighbors' trust for the next few months.
+The declaration period is over, and nobody else pulled papers, let alone submitted signatures, in 5C07. We can exhale a bit, but there will still be a 10-day signature challenge period, the potential for a write-in campaign, and the important work of earning neighbors' trust in the next few months (and beyond).
 
 I'll also continue writing up my [Issues](/issues/) pages, with meeting summaries and calls to action to advance projects around the SMD and beyond, building the dashboard to track concerns/service requests, and submitting TSIs that will conclude after I take office.
 
