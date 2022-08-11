@@ -8,19 +8,21 @@ layout: single
 ---
 I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want to make our neighborhood and city safe, vibrant, and welcoming for long-term, new, and future neighbors alike. You can read more about what I'd do as Commissioner on the [Priorities](/priorities/) page. You can find writeups on specific cases and meeting summaries on the [Issues](/issues/) page.
 
-### The timeline:
-- **NOW (8/8 update):** Planning to make my last signature dropoff on Tuesday 8/9. Feeling okay about my signature count, but if anyone hasn't signed and would like a porch visit on Monday evening or Tuesday morning, I'm always up for it! Still unclear we have a competitive race; we can't know for sure until Thursday 8/11. Even if we don't, there are hugely consequential nearby races that I'm ready to help support, while I also continue hearing from folks in 5C07 and start the work early.
-- **August 10th:** Ballot petitions are due. Officially, I'll need 25 signatures of duly registered voters within the SMD's boundaries. Practically speaking, I'll want a buffer of... as many as I can get.
-- **late Sept/early Oct:** Mail/Dropbox ballots [should be received](https://twitter.com/Vote4DC/status/1554102744436310017) in the mail by all registered voters. These can be mailed, or, as I'd recommend, dropped off at a dropbox (such as the one in front of Woodridge Library).
-- **early-mid October:** Dropboxes will open to receive those ballots.
-- **late Oct/early Nov:** Early Voting centers will open; any DC voter can vote at any DC voting center. In 5C07, the Woodridge Library community room is tentatively planned to be our local Early Voting center.
-- **November 8th:** the *END* of voting. All Early Voting centers will be open with additional hours; there will be additional Election Day voting centers (such as, tentatively, Burroughs Elementary nearby). Any DC voter can vote at any DC voting center.
+## The Election
+There is now a comprehensive timeline up at the DC BOE website on the [2022 Elections page](https://dcboe.org/Elections/2022-Elections).
 
-BOE has not finalized voting center/dropbox locations or dates for Early Voting, but the draft information is [available for review and comment](https://www.dcboe.org/Elections/2022-Elections). I expect most of us will be voting at the dropbox in front of **Woodridge Library** or at the new Early Voting/Election Day voting center slated for the **Woodridge Library community room**.
-{: .notice--info}
+### tl;dr
+ANC candidate declarations are over and I'll be unopposed on the 5C07 ballot. but there are competitive/consequential elections just outside our boundaries. Actual voting runs from early October and ends on **November 8th**. There will once again be mailed ballots for all, dropboxes, Early Voting centers, and the option to vote at any Election Day voting center. **Woodridge Library** will host all three voting options.
 
-While the Langdon Park Rec Center was both an Early Voting and Election Day voting center during the Primaries in June, it is not slated to be a voting center at all this round; but the Woodridge Library is just a walk through Langdon Park away!
-{: .notice--warning}
+### Campaign Status
+I dropped off 43 signatures in total for ballot access, to meet a minimum requirement of 25 after any challenges. I appreciate everyone's support, the many conversations about the neighborhood, and the miles I walked making the rounds!
+
+The declaration period is over, and nobody else pulled papers, let alone submitted signatures, in 5C07. We can exhale a bit, but there will still be a 10-day signature challenge period, the potential for a write-in campaign, and the important work of earning neighbors' trust for the next few months.
+
+### The Horserace
+Meanwhile, there are some competitive elections nearby with major consequences for what we can get done in 5C and with 5B (and A/D/E/F where we all spend plenty of time); for folks who are interested a horserace, we have plenty of that ahead of us. I'll write up some specifics at some point, but feel free to reach out for more details on competitive nearby races; if you're reading this from outside of [5C07](/5c07/), you may be voting in one!
+
+Today, the best thing you can do is familiarize yourself with the (*new!*) maps, think about where your network lives, and encourage your friends to do the same. You can do this by checking the [OpenANC project](http://openanc.org), the [official tool](https://dcgis.maps.arcgis.com/apps/instant/lookup/index.html?appid=d83784aad3f247d39df1a92422a9df25), the [static maps](https://planning.dc.gov/2023-anc-smd-boundaries), and/or just reaching out to me at the social media options below!
 
 *[SMD]: Single-Member District
 *[ANC]: Advisory Neighborhood Commission (or Commissioner)
