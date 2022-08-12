@@ -12,7 +12,11 @@ I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want
 There is now a comprehensive timeline up at the DC BOE website on the [2022 Elections page](https://dcboe.org/Elections/2022-Elections).
 
 ### tl;dr
-ANC candidate declarations are over and I'll be unopposed on the 5C07 ballot, but there are competitive/consequential elections just outside our boundaries. Actual voting runs from early October and ends on **November 8th**. There will once again be mailed ballots for all, dropboxes, Early Voting centers, and the option to vote at any Election Day voting center. **Woodridge Library** will host all three voting options.
+- **I'll be unopposed on the 5C07 ballot**; ANC candidate declarations are over.
+- There are competitive/consequential elections nearby.
+- **Vote** from early October and **by November 8th**.
+- There will be **mailed ballots** for all, dropboxes, and the option to vote at any Early or Election Day voting center.
+- **Woodridge Library** will host all three voting options (dropbox, early, Election Day).
 
 ### Campaign Status
 I dropped off 43 signatures in total for ballot access, to meet a minimum requirement of 25 after any challenges. I appreciate everyone's support, the many conversations about the neighborhood, and the miles I walked making the rounds!
