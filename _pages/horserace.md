@@ -5,11 +5,11 @@ header:
   overlay_image: /assets/images/capitol.jpg
   caption: "[Capitol reflections](/assets/images/capitol.jpg)"
 layout: single
-toc: true
+# toc: true
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-08-14T18:49:32
+last_modified_at: 2022-08-14T19:18:14
 ---
 I dunno the less I say about these tables the better.
 
