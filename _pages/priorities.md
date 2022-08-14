@@ -27,8 +27,7 @@ This is all to do the best we can within an extremely flawed system, and it's un
 There are many stalled streetscape projects for the arterials running along/near our SMD, including:
 - [Rhode Island Ave. NE Streetscape Master Plan](https://ddot.dc.gov/page/rhode-island-avenue-ne-streetscape-master-plan) (see also some additional artifacts from [this Wordpress site](https://riastreetscapeproject.wordpress.com/))
 - [South Dakota Avenue Transportation and Streetscape Study](https://ddot.dc.gov/page/south-dakota-avenue-transportation-and-streetscape-study) (still on the hunt for the actual report artifacts for this project; let a kid know if you find them!)
-- [New York Avenue Streetscape and Trail Project
-](https://www.newyorkavenueproject.com/), recently repackaged as the [New York Avenue NE Roadmap](https://planning.dc.gov/NYAroadmap)
+- [New York Avenue Streetscape and Trail Project](https://www.newyorkavenueproject.com/), recently repackaged as the [New York Avenue NE Roadmap](https://planning.dc.gov/NYAroadmap)
 
 I'll work to raise awareness of these project and attempt to build pressure to finally see them through, and hopefully go further to incorporate dedicated and protected bus/bike infrastructure.
 
