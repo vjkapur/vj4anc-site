@@ -11,10 +11,22 @@ I dunno the less I say about these tables the better.
 ## 5A
 The Northern reaches of Ward 5
 
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
+|---|---|---|---|---|---|
+|01||DJM||||
+|02|||KC|||
+|03||ESL||||
+|04|||DR|||
+|05||||||
+|06||||||
+|07||||||
+|08|||EA|GAF||
+|09|ZA|||||
+
 ## 5B
 East of the Met Branch and mostly north of RIA
 
-|SMD|❤️|👍|❓|🚩|🚷|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
 |---|---|---|---|---|---|
 |01|EB|||GC||
 |02|NS|||||
@@ -27,21 +39,52 @@ East of the Met Branch and mostly north of RIA
 ## 5C
 East of the Met Branch, south of RIA, mostly north of NYA
 
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
+|---|---|---|---|---|---|
+|01|||AD|||
+|02|||LR|||
+|03||THD||||
+|04|SN|||JM||
+|05||DO||||
+|06|||||HTJR|
+|07|VK*|||||
+
 ## 5D
 Southern reaches of Ward 5
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
+|---|---|---|---|---|---|
+|01|LSG||RR|||
+|02||SLR|JPL|||
+|03|||AR|||
+|04|SC|||||
+|05|||SSG|||
+|06||CD|||KH|
+|07|||JM|||
+|08||||||
+|09||||||
 
 ## 5E
 Western reaches of Ward 5
 
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
+|---|---|---|---|---|---|
+|01|||JRP|||
+|02|NM||||KML|
+|03|||PC|||
+|04|HI|||BGH||
+|05||KR||||
+|06|||||KV|
+
 ## 5F
 West of the Met Branch, from NYA to Michigan
 
-|SMD|❤️|👍|❓|🚩|🚷|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
 |---|---|---|---|---|---|
 |01||TH||||
 |02|AS|||||
 |03|||||PW|
-|04|||MG, DV|||
-|05|||MLFA, JA|||
+|04|||MG<br>DV|||
+|05|||MLFA<br>JA|||
 |06||JBH*||||
 |07||MK|||SMP|
