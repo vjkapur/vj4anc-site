@@ -6,7 +6,10 @@ header:
   caption: "[Capitol reflections](/assets/images/capitol.jpg)"
 layout: single
 toc: true
-last_modified_at: 2022-08-14T16:03:24
+toc_label: "Page Contents"
+toc_icon: "bullseye"
+toc_sticky: true
+last_modified_at: 2022-08-14T18:49:32
 ---
 I dunno the less I say about these tables the better.
 
