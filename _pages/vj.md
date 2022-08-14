@@ -7,7 +7,13 @@ header:
   caption: "[Horsey Ride at the US Capitol](/assets/images/horsey-ride.jpg)"
 layout: single
 ---
+<style>
+    p.caption {font-weight: bold; font-size: 12px; text-align: center}
+</style>
 I'm VJ or, in BOE terms, Vijay "VJ" Kapur. I have a lot to say/write, but not usually about myself.
+
+[![VJ](/assets/images/vj.jpg)](/assets/images/vj.jpg)
+<p class="caption">VJ on the Provost rooftop</p>
 
 I am, in no particular order and among other things:
 - parent to Melina, 5
