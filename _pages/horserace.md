@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-08-14T19:18:14
+last_modified_at: 2022-08-15T15:35:54
 ---
 I dunno the less I say about these tables the better.
 
@@ -37,7 +37,7 @@ East of the Met Branch and mostly north of RIA
 |02|NS|||||
 |03|AE|||||
 |04||RA*|||RW|
-|05|CC|||JJF||
+|05|CC||||JJF|
 |06|PP|||||
 |07|JP||||GB|
 
@@ -64,7 +64,7 @@ Southern reaches of Ward 5
 |03|||AR|||
 |04|SC|||||
 |05|||SSG|||
-|06||CD|||KH|
+|06|CD||||KH|
 |07|||JM|||
 |08||||||
 |09||||||
