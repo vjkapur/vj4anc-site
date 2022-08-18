@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-08-15T15:35:54
+last_modified_at: 2022-08-18T20:02:36
 ---
 I dunno the less I say about these tables the better.
 
@@ -74,9 +74,9 @@ Western reaches of Ward 5
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
 |---|---|---|---|---|---|
-|01|||JRP|||
+|01||||JRP||
 |02|NM||||KML|
-|03|||PC|||
+|03|||PC<br>\[SB\]|||
 |04|HI|||BGH||
 |05||KR||||
 |06|||||KV|
