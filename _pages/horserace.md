@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-08-18T20:02:36
+last_modified_at: 2022-08-18T20:19:01
 ---
 I dunno the less I say about these tables the better.
 
@@ -63,7 +63,7 @@ Southern reaches of Ward 5
 |02||SLR|JPL|||
 |03|||AR|||
 |04|SC|||||
-|05|||SSG|||
+|05||||SSG||
 |06|CD||||KH|
 |07|||JM|||
 |08||||||
@@ -89,7 +89,7 @@ West of the Met Branch, from NYA to Michigan
 |01||TH||||
 |02|AS|||||
 |03|||||PW|
-|04|||MG<br>DV|||
-|05|||MLFA<br>JA|||
+|04||MG<br>DV||||
+|05||JA|MLFA|||
 |06||JBH*||||
 |07||MK|||SMP|
