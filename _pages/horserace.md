@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-08-23T00:54:26
+last_modified_at: 2022-08-23T01:01:10
 ---
 I dunno the less I say about these tables the better.
 
@@ -75,7 +75,7 @@ Western reaches of Ward 5
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
 |---|---|---|---|---|---|
 |01||||JRP||
-|02|NM||||KML|
+|02|[NM](https://secure.actblue.com/donate/nicole-mcentee-for-5e02-1)||||KML|
 |03|||PC<br/>\[SB\]|||
 |04|HI|||BGH||
 |05||KR||||
