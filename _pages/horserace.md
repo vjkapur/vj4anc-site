@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-08-23T12:09:43
+last_modified_at: 2022-08-25T00:51:33
 ---
 I dunno the less I say about these tables the better.
 
@@ -64,7 +64,7 @@ Southern reaches of Ward 5
 |03|||AR|||
 |04|SC|||||
 |05||||SSG||
-|06|CD||||KH|
+|06|[CD](https://secure.actblue.com/donate/dellesky-for-anc-5d06-1)||||KH|
 |07|||JM|||
 |08||||||
 |09||||||
