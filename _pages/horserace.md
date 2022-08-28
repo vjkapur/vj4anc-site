@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-08-25T10:21:40
+last_modified_at: 2022-08-28T17:42:17
 ---
 I dunno the less I say about these tables the better.
 
@@ -33,7 +33,7 @@ East of the Met Branch and mostly north of RIA
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
 |---|---|---|---|---|---|
-|**01**|EB|||GC||
+|01|EB|||||
 |02|NS|||||
 |03|AE|||||
 |**04**||RA*|||RW|
