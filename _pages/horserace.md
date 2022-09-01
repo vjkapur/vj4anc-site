@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-09-01T03:42:40
+last_modified_at: 2022-09-01T03:57:24
 ---
 I dunno the less I say about these tables the better.
 
@@ -59,7 +59,7 @@ Southern reaches of Ward 5
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
 |---|---|---|---|---|---|
-|**01**|[LSG](https://secure.actblue.com/donate/luc4dc)||RR|||
+|**01**|LSG|RR||||
 |**02**||SLR|JPL|||
 |03|||AR|||
 |04|SC|||||
