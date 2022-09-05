@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-09-03T13:29:55
+last_modified_at: 2022-09-05T20:09:45
 ---
 I dunno the less I say about these tables the better.
 
@@ -59,7 +59,7 @@ Southern reaches of Ward 5
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
 |---|---|---|---|---|---|
-|**01**|LSG|RR||||
+|01|RR|||||
 |02||SLR||||
 |03|||AR|||
 |04|SC|||||
@@ -88,8 +88,8 @@ West of the Met Branch, from NYA to Michigan
 |---|---|---|---|---|---|
 |01||TH||||
 |02|AS|||||
-|03|||||PW|
+|03||||PW||
 |**04**||MG<br/>DV||||
-|**05**||JA|MLFA|||
-|06||JBH*||||
+|**05**|JA||MLFA|||
+|06|JBH*|||||
 |**07**|MK||||SMP|
