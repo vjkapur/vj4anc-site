@@ -16,3 +16,10 @@
 
 /* captioning inline photos and figures */
 p.caption {font-weight: bold; font-size: 12px; text-align: center}
+
+/* darkred strikethrough */
+strike.correction {color:darkred;}
+span.uncorrected {color:#3d4144}
+
+/* darkred text for correction */
+span.correction {color:darkred;}
