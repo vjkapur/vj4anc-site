@@ -12,7 +12,7 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-10-02T20:48:41
+last_modified_at: 2022-10-02T21:10:29
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
@@ -81,9 +81,9 @@ end of opinion block
 {: .notice--warning}
 
 ## 8/25/2022 Public Space Committee hearing
-Some plans related to this site were summarily approved by the DC Public Space Committee on 8/25/2022, but it's not clear what.
+Some plans related to this project and driveways were summarily approved by the DC Public Space Committee on 8/25/2022, but it's not clear what.
 
-The hearing [agenda](https://pschearing.dc.gov/documents/024ee4d3bbb94619a8db588471a3f98e/explore) and [video/transcript](https://transcripts.gotomeeting.com/#/s/f8b6751004ad161c402a136ee4c23b4e883dfbb52fed5700d3e658ff71f63053)) are available online. The case was summarily approved as part of the consent agenda at around the 16:20 mark.
+The hearing [agenda](https://pschearing.dc.gov/documents/024ee4d3bbb94619a8db588471a3f98e/explore) and [video/transcript](https://transcripts.gotomeeting.com/#/s/f8b6751004ad161c402a136ee4c23b4e883dfbb52fed5700d3e658ff71f63053) are available online. The case was summarily approved as part of the consent agenda at around the 16:20 mark.
 
 The agenda item reads as follows:
 
