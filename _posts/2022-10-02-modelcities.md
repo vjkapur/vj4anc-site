@@ -12,7 +12,7 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-10-02T20:47:07
+last_modified_at: 2022-10-02T20:48:41
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
@@ -100,6 +100,7 @@ I will attempt to get more information on this particular application/permit and
 *[DCRA]: DC Department of Consumer and Regulatory Affairs
 *[DDOT]: DC Department of Transportation
 *[E26]: DC FEMS Engine Company 26
+*[RFP]: Request for Proposal
 
 <script>
 var map = L.map('development-map',  {
