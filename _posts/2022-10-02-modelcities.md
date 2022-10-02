@@ -12,7 +12,7 @@ categories: active development 5c02
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-10-02T21:10:29
+last_modified_at: 2022-10-02T21:12:13
 ---
 <div id="development-map" class="map-container"></div>
 This project is in 5C02.
@@ -91,7 +91,7 @@ The agenda item reads as follows:
 > Services c/o Emeka Nwabunwanne - Owner: DC Department of General Services c/o Emeka Nwabunwanne -
 > Paving: Driveway(s) Close Existing, Driveway(s) New- Commercial # 395238
 
-The permit now appears as `Approved Pending Payment` in the TOPS system. You can view it [here](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx?tn=395238), though there are very few details there as well. The permit start date is **1/1/23** and end date is **3/31/23**; it's unclear exactly what the scope of this work is. I'm presuming/hoping this would be related to the existing model cities building and not any reconstruction effort, given the timeframe.
+The permit now appears as `Approved Pending Payment` in the TOPS system. You can view it [here](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx?tn=395238), though there are very few details there as well. The permit start date is **1/1/23** and end date is **3/31/23**; it's unclear exactly what the scope of this work is. I'm presuming/hoping this would be related to the existing Model Cities building and not any reconstruction effort, given the timeframe.
 
 I will attempt to get more information on this particular application/permit and report back. There is already construction fencing erected at the site.
 
