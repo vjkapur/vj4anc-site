@@ -4,9 +4,9 @@ permalink: /issues/modelcities/
 excerpt: "an increase in facilities on the Model Cities lot"
 author_profile: false
 header:
-  overlay_image: /assets/images/modelcities/current.jpg
+  overlay_image: /assets/images/modelcities/front.png
   overlay_filter: rgba(127, 127, 127, 0.5)
-  caption: "[Model Cities building today](/assets/images/modelcities/current.jpg)"
+  caption: "[Model Cities building today](/assets/images/modelcities/front.png)"
 categories: active development 5c02
 # toc: true
 toc_label: "Page Contents"
@@ -75,6 +75,9 @@ I have some major concerns with this, including:
 - having additional curb cuts on a sidewalk where children are likely to be walking; I'm not sure why the two parking facilities couldn't share a curb cut or be consolidated entirely
 - removing trees primarily to add surface parking lots, which is an inherently poor use of the land. If this much parking is really necessary, this might be a candidate for a second underground parking garage in the neighborhood, after the one at [2026 Jackson](/issues/2026jackson/)
 
+[![DC Government Property](/assets/images/modelcities/no-trespassing.png)](/assets/images/modelcities/no-trespassing.png)
+<p class="caption">DC Government Property sign at the site</p>
+
 We should monitor this situation closely. These are DC Government buildings replacing a DC Government building, which allows both more flexibility in use, but also ideally a little more community control. We should work to make sure new construction there is community-serving and pedestrian/transit-oriented, and these plans are neither.
 
 end of opinion block
@@ -92,6 +95,9 @@ The agenda item reads as follows:
 > Paving: Driveway(s) Close Existing, Driveway(s) New- Commercial # 395238
 
 The permit now appears as `Approved Pending Payment` in the TOPS system. You can view it [here](https://tops.ddot.dc.gov/DDOTPermitSystem/DDOTPermitOnline/Reports/PublicConstructionPermitReport.aspx?tn=395238), though there are very few details there as well. The permit start date is **1/1/23** and end date is **3/31/23**; it's unclear exactly what the scope of this work is. I'm presuming/hoping this would be related to the existing Model Cities building and not any reconstruction effort, given the timeframe.
+
+[![Langdon FEMS proposal](/assets/images/modelcities/fencing.png)](/assets/images/modelcities/fencing.png)
+<p class="caption">Construction Fencing (taken 10/3/2022)</p>
 
 I will attempt to get more information on this particular application/permit and report back. There is already construction fencing erected at the site.
 
