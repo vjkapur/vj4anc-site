@@ -54,7 +54,7 @@ The current E26 building is not large enough to support current population needs
 In the above map, you can see the service area extending through Fort Lincoln, with the station (the west-most pin in the region) all the way to the west side. The other two pins are FEMS warehouse and fleet facilities, not dispatch facilities.
 
 ## Langdon/Woodridge E26 Plans
-At the [8/3/2022 5C07 SMD meeting](/issues/20220803-5c07meeting/), Commissioner Montague received a very preliminary plan for a possible DC FEMS station in 5C02, just across Evarts from Langdon Elementary School.
+At the [8/3/2022 5C07 SMD meeting](/issues/20220803-5c07meeting/), Commissioner Montague discussed receiving a very preliminary plan for a possible DC FEMS station in 5C02, just across Evarts from Langdon Elementary School.
 
 These particular plans would include:
 - razing the existing Model Cities building at 1901 Evarts St. NE, and replacing it with a new two-story complex with similarly-sized surface parking lot, accessed by one curb cut on Evarts St.
