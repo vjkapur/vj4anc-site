@@ -23,7 +23,7 @@ This project is in 5C02.
 - There are [plans to expand](https://dgs.dc.gov/page/dacl-model-cities-wellness-center-expansion) this facility to increase services offered
 - **The Engine Company 26 building** (1340 Rhode Island Ave NE) is **planned for retirement**; it's no longer the appropriate size or located far east enough to accomodate current population size/distribution
 - **There are multiple options for replacing the firehouse**; including placing [a new one in Fort Lincoln](https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/ATTACHMENT%20A2%20-TECHNICAL%20REQUIREMENTS%20AND%20SUBMITTAL.pdf), or colocating one with Model Cities
-- **The notional Model Cities/FEMS plan** would pave over a considerable amount of forested area in our neighborhood and create a lot of emergency vehicle traffic on our streets, presumably making traffic safety mitigations more difficult
+- **The [notional Model Cities/FEMS plan](/issues/modelcities/#langdonwoodridge-e26-plans)** would pave over a considerable amount of forested area in our neighborhood and create a lot of emergency vehicle traffic on our streets, presumably making traffic safety mitigations more difficult
 
 ## background
 ### Model Cities
@@ -54,7 +54,7 @@ The current E26 building is not large enough to support current population needs
 In the above map, you can see the service area extending through Fort Lincoln, with the station (the west-most pin in the region) all the way to the west side. The other two pins are FEMS warehouse and fleet facilities, not dispatch facilities.
 
 ## Langdon/Woodridge E26 Plans
-At the [8/3/2022 5C07 SMD meeting](/issues/20220803-5c07meeting/), Commissioner Montague received a very preliminary plan for a possible DC FEMS station in 5C02, just across Evarts from Langdon Elementary School. I'll put up an issue page dedicated to this project shortly.
+At the [8/3/2022 5C07 SMD meeting](/issues/20220803-5c07meeting/), Commissioner Montague received a very preliminary plan for a possible DC FEMS station in 5C02, just across Evarts from Langdon Elementary School.
 
 These particular plans would include:
 - razing the existing Model Cities building at 1901 Evarts St. NE, and replacing it with a new two-story complex with similarly-sized surface parking lot, accessed by one curb cut on Evarts St.
