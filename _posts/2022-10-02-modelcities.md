@@ -20,7 +20,7 @@ This project is in 5C02.
 
 ## tl;dr
 - **The Model Cities building** is a government-owned facility at **1901 Evarts St. NE** leased to service providers for senior residents' needs
-- There are plans to expand this facility to increase services offered
+- There are [plans to expand](https://dgs.dc.gov/page/dacl-model-cities-wellness-center-expansion) this facility to increase services offered
 - **The Engine Company 26 building** (1340 Rhode Island Ave NE) is **planned for retirement**; it's no longer the appropriate size or located far east enough to accomodate current population size/distribution
 - **There are multiple options for replacing the firehouse**; including placing [a new one in Fort Lincoln](https://dgs.dc.gov/sites/default/files/dc/sites/dgs/event_content/attachments/ATTACHMENT%20A2%20-TECHNICAL%20REQUIREMENTS%20AND%20SUBMITTAL.pdf), or colocating one with Model Cities
 - **The notional Model Cities/FEMS plan** would pave over a considerable amount of forested area in our neighborhood and create a lot of emergency vehicle traffic on our streets, presumably making traffic safety mitigations more difficult
