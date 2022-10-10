@@ -19,7 +19,7 @@ The Northern reaches of Ward 5
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
 |---|---|---|---|---|---|
 |01||DJM||||
-|02|||KC|||
+|02|||KC|\[CL\]||
 |03||ESL||||
 |04|||DR|||
 |05||||||
