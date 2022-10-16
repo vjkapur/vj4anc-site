@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-10-16T23:44:42
+last_modified_at: 2022-10-16T23:47:51
 ---
 I dunno the less I say about these tables the better.
 
@@ -19,7 +19,7 @@ The Northern reaches of Ward 5
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❤️&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;👍&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;❓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚩&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🚷&nbsp;&nbsp;&nbsp;|
 |---|---|---|---|---|---|
 |01||DJM||||
-|02|||KC|\[CL\]||
+|02||KC||\[CL\]||
 |03||ESL||||
 |04|||DR|||
 |05||||||
