@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-10-05T05:21:26
+last_modified_at: 2022-10-16T23:44:42
 ---
 I dunno the less I say about these tables the better.
 
@@ -23,7 +23,7 @@ The Northern reaches of Ward 5
 |03||ESL||||
 |04|||DR|||
 |05||||||
-|06||||||
+|06|||||\[DH\]|
 |07||||||
 |**08**|||EA|GAF||
 |09|ZA|||||
@@ -67,7 +67,7 @@ Southern reaches of Ward 5
 |**06**|[CD](https://secure.actblue.com/donate/dellesky-for-anc-5d06-1)||||KH|
 |07|||JM|||
 |08||\[RM\]||||
-|09||||||
+|09||||\[BB\]||
 
 ## 5E
 Western reaches of Ward 5
