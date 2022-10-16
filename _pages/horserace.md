@@ -9,7 +9,7 @@ layout: single
 toc_label: "Page Contents"
 toc_icon: "bullseye"
 toc_sticky: true
-last_modified_at: 2022-10-16T23:47:51
+last_modified_at: 2022-10-16T23:53:15
 ---
 I dunno the less I say about these tables the better.
 
@@ -89,7 +89,7 @@ West of the Met Branch, from NYA to Michigan
 |01||TH||||
 |02|AS|||||
 |03||\[GC\]||PW||
-|**04**||MG<br/>DV||||
+|**04**|MG|||DV||
 |**05**|JA||MLFA|||
 |06|JBH*|||||
 |**07**|[MK](https://secure.actblue.com/donate/michele-keegan-for-anc-5f07--eckington-1)||||SMP|
