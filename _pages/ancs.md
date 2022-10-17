@@ -21,9 +21,9 @@ end of borrowed content
 {: .notice}
 
 ## Can you be more specific?
-Sure, let's split the work into three buckets: casework, bureaucracy, and outreach. The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws of a Commission. Individual Commissioners have more leeway in how they approach the job, but few (if any) formal authorities outside of what's delegated by the full Commission. Official actions of a Commission must occur in publicly announced and accessible meetings. Informational/preparatory matters can be handled in various other ways, including meetings at the SMD-level or with topic-specific committees created by the Commission.
+Sure, let's split the work into three buckets: **casework**, **bureaucracy**, and **outreach**. The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws (and resolutions) of a Commission. Individual Commissioners have some leeway in how they approach the job, but few (if any) formal authorities outside of what's delegated by the full Commission. Official actions of a Commission must occur in publicly announced and accessible meetings. Informational/preparatory matters can be handled in various other ways, including meetings at the SMD level or with topic-specific committees created by the Commission.
 
-### The "casework"
+### The casework
 There are several types of cases where agencies and governing bodies will expect or seek a Commission's input, such as:
 - **Board of Zoning Adjustment (BZA):** when applicants (e.g. developers of a building) are seeking minor zoning relief such as high lot coverage or fewer parking spaces than generally required of a particular zone, they go before the BZA, which will expect ANCs to marshall community input/feedback on the project and possibly pass a Resolution of Support or Opposition.
 - **Zoning Commission (ZC):** similar to BZA cases, though these concern larger variances such as changes to the Zoning Map, or Planned Unit Developments (PUDs) where significant variance is granted in exchanged for a Community Benefits Agreement (CBA)
@@ -35,7 +35,7 @@ There are several types of cases where agencies and governing bodies will expect
 Individual Commissioners can work to improve the community and help individual residents in their dealings with the DC government. This includes the submission and monitoring of 311 requests, to monitoring and opining on Council legislation. In these cases, their power is generally the deference they're given as elected officials with a presumed sense of community concerns and priorities, and they're accumulated knowledge on which agencies and personnel tend to be responsible for what. They can add additional weight to these concerns by passing formal resolutions in the larger Commission to compel and agency or the Council to act a certain way, and these resolutions are likely owed a response (though not necessarily a responsive action or compliance).
 
 ### The outreach
-Individual Commissioners also weigh in on any number of matters, such as longer-term planning goals and workshops. Commissions also have a budget, that allows them to spend money on basic functions, but also community events and grants to organizations.
+Individual Commissioners also weigh in on any number of matters, such as longer-term planning goals and workshops. Commissions also have budgets allocated by the Council, that allow them to spend money on basic functions (office supplies, websites, etc.), but also community events and grants to organizations.
 
 ## Lexicon
 Advisory Neighborhood Commission
