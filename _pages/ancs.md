@@ -21,7 +21,7 @@ end of borrowed content
 {: .notice}
 
 ## Can you be more specific?
-Sure, let's split the work into three buckets: casework, bureaucracy, and outreach. The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws of a Commission. Individual Commissioners have more leeway in how they approach the job, but few (if any) formal authorities outside of the full Commission. Official actions of a Commission must occur in publicly announced and accessible meetings. Informational/preparatory matters can be handled in various other ways, including meetings at the SMD-level or with topic-specific committees created by the Commission.
+Sure, let's split the work into three buckets: casework, bureaucracy, and outreach. The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws of a Commission. Individual Commissioners have more leeway in how they approach the job, but few (if any) formal authorities outside of what's delegated by the full Commission. Official actions of a Commission must occur in publicly announced and accessible meetings. Informational/preparatory matters can be handled in various other ways, including meetings at the SMD-level or with topic-specific committees created by the Commission.
 
 ### The "casework"
 There are several types of cases where agencies and governing bodies will expect or seek a Commission's input, such as:
