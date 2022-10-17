@@ -20,6 +20,23 @@ Commissioners may also initiate recommendations for improving city services, con
 end of borrowed content
 {: .notice}
 
+## Can you be more specific?
+Sure, let's split the work into three buckets: casework, bureaucracy, and outreach. The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws of a Commission. Individual Commissioners have more leeway in how they approach the job, but few (if any) formal authorities outside of the full Commission. Official actions of a Commission must occur in publicly announced and accessible meetings. Informational/preparatory matters can be handled in various other ways, including meetings at the SMD-level or with topic-specific committees created by the Commission.
+
+### The "casework"
+There are several types of cases where agencies and governing bodies will expect or seek a Commission's input, such as:
+- **Board of Zoning Adjustment (BZA):** when applicants (e.g. developers of a building) are seeking minor zoning relief such as high lot coverage or fewer parking spaces than generally required of a particular zone, they go before the BZA, which will expect ANCs to marshall community input/feedback on the project and possibly pass a Resolution of Support or Opposition.
+- **Zoning Commission (ZC):** similar to BZA cases, though these concern larger variances such as changes to the Zoning Map, or Planned Unit Developments (PUDs) where significant variance is granted in exchanged for a Community Benefits Agreement (CBA)
+- **Historic Preservation Review Board (HRPB):** cases of newly protected landmarks or districts, modification of the original L'Enfant street plan, or the adjudication of construction on a protected building for design/material compatibility.
+- **Alcoholic Beverage Regulation Administration (ABRA):** establishments that serve, sell, or produce alcohol apply for various kinds of licenses that can have any number of limitations or provisions. ANCs are one of several bodies that can seek to influence the conditions on a business through the license application/renewal process.
+- **District Department of Transporation (DDOT) Notices of Intent (NOIs):** these are near-final plans for the installation/modification of transportation infrastructure. This can include small projects like the installation of a speedhump, and larger ones like significantly reapportioning road space to accomodate protected bike lanes. ANCs are given a chance to comment, and their comments (or formal resolutions of opposition) can significantly delay work.
+
+### The bureaucracy
+Individual Commissioners can work to improve the community and help individual residents in their dealings with the DC government. This includes the submission and monitoring of 311 requests, to monitoring and opining on Council legislation. In these cases, their power is generally the deference they're given as elected officials with a presumed sense of community concerns and priorities, and they're accumulated knowledge on which agencies and personnel tend to be responsible for what. They can add additional weight to these concerns by passing formal resolutions in the larger Commission to compel and agency or the Council to act a certain way, and these resolutions are likely owed a response (though not necessarily a responsive action or compliance).
+
+### The outreach
+Individual Commissioners also weigh in on any number of matters, such as longer-term planning goals and workshops. Commissions also have a budget, that allows them to spend money on basic functions, but also community events and grants to organizations.
+
 ## Lexicon
 Advisory Neighborhood Commission
 : *(aka **ANC**, **Commission**)*
