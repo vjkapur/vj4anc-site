@@ -27,7 +27,7 @@ Some near-term priorities include:
   - a staff-informed tracker of facilities issues at Langdon Elementary
   - a community calendar with local events
 - writing a lot of issue pages for active development cases
-- continuing to hone my understanding and lend my ideas for issues DC-wide
+- continuing to hone my understanding and lend my ideas/effort for issues DC-wide
 
 Depending on how the election goes, we might have a big opportunity to:
 - revisit the 5C bylaws
