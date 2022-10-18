@@ -26,7 +26,7 @@ I'd categorize the work into three buckets:
 - **bureaucracy:** creating and tracking service requests with various DC (and federal agencies) to secure desired improvements and outcomes for the community
 - **outreach:** general visibility within the community and offering knowledge and support to working groups, community organizations, or the Council
 
-The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws and formal resolutions of a Commission. **Official actions** of a Commission must occur in **publicly announced and accessible meetings with a quorum** present, by formal vote motions. Informational/preparatory matters can be handled in less formal ways as authorized. Commissions have a quarterly allocation of funds from the DC budget based on population represented (~$19k annually for a 7-member Commission in 2023, with savings carried forward indefinitely) to spend on basic functions or outreach projects.
+The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws and formal resolutions of a Commission. **Official actions** of a Commission must occur in **publicly announced and accessible meetings with a quorum** present, by formal votes on motions. Informational/preparatory matters can be handled in less formal ways as authorized. Commissions have a quarterly allocation of funds from the DC budget based on population represented (~$19k annually for a 7-member Commission in 2023, with savings carried forward indefinitely) to spend on basic functions or outreach projects.
 
 ### casework
 There are several types of cases where agencies and governing bodies will expect or seek a Commission's input, such as:
