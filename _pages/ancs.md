@@ -21,21 +21,20 @@ end of borrowed content
 {: .notice}
 
 ## Can you be more specific?
-Sure. I'd categorize the work into three buckets: **casework**, **bureaucracy**, and **outreach**. The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws and formal resolutions of a Commission. Individual Commissioners have some leeway in how they approach the job, but few (if any) formal authorities outside of what's delegated by the full Commission. **Official actions** of a Commission must occur in **publicly announced and accessible meetings with a quorum** present. Informational/preparatory matters can be handled in various other ways, including meetings at the SMD level or with topic-specific committees created by the Commission.
+I'd categorize the work into three buckets:
+- **casework:** hearing and conveying details of certain types of projects (listed below) within the Commission boundaries and taking the lead on shaping outcomes based on community concerns
+- **bureaucracy:** creating and tracking service requests with various DC (and federal agencies) to secure desired improvements and outcomes for the community
+- **outreach:** general visibility within the community and offering knowledge and support to working groups, community organizations, or the Council
+
+The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws and formal resolutions of a Commission. **Official actions** of a Commission must occur in **publicly announced and accessible meetings with a quorum** present, by formal vote motions. Informational/preparatory matters can be handled in less formal ways as authorized. Commissions have a quarterly allocation of funds from the DC budget based on population represented (~$19k annually for a 7-member Commission in 2023, with savings carried forward indefinitely) to spend on basic functions or outreach projects.
 
 ### casework
 There are several types of cases where agencies and governing bodies will expect or seek a Commission's input, such as:
 - **Board of Zoning Adjustment (BZA):** when applicants (e.g. developers of a building) are seeking minor zoning relief such as high lot coverage or fewer parking spaces than generally required of a particular zone, they go before the BZA, which will expect ANCs to marshall community input/feedback on the project and ideally pass a formal Resolution of Support or Opposition.
 - **Zoning Commission (ZC):** similar to BZA cases, though these concern larger variances such as changes to the Zoning Map, or Planned Unit Developments (PUDs) where significant variance is granted in exchanged for a Community Benefits Agreement (CBA)
 - **Historic Preservation Review Board (HRPB):** cases of newly protected landmarks or districts, modification of the original L'Enfant street plan, or the adjudication of construction on a protected building for design/material compatibility.
-- **Alcoholic Beverage Regulation Administration (ABRA):** establishments that serve, sell, or produce alcohol apply for various kinds of licenses that can have any number of limitations or provisions. ANCs are one of several bodies that can seek to influence the conditions on a business through the license application/renewal process.
+- **Alcoholic Beverage Regulation Administration (ABRA):** establishments that serve, sell, or produce alcohol apply for various kinds of licenses that can have any number of limitations or provisions. ANCs are one of several types of party with standing that can seek to influence the conditions on a business through the license application/renewal process.
 - **District Department of Transporation (DDOT) Notices of Intent (NOIs):** these are near-final plans for the installation/modification of transportation infrastructure. This can include small projects like the installation of a speedhump, and larger ones like significantly reapportioning road space to accomodate protected bike lanes. ANCs are given a chance to comment, and their comments (or formal resolutions of opposition) can significantly delay work.
-
-### bureaucracy
-Individual Commissioners can work to improve the community and help individual residents in their dealings with the DC government. This includes the **submission and monitoring of 311 requests**, which cover everything from **Traffic Safety Investigations** (assessments on whether speedhumps or other safety infrastructure should be installed) to **minor repairs and upkeep** (like emptying public trash cans). In these cases, their power is generally the deference they're given as elected officials with a presumed sense of community concerns/priorities, and their accumulated knowledge on which agencies and personnel tend to be responsible for what. They can add additional weight to these efforts by passing formal resolutions in the full Commission to compel an agency to act or answer questions, and these resolutions are likely owed a response (though not necessarily a responsive action or compliance).
-
-### outreach
-Individual Commissioners also weigh in on any number of matters, such as Council legislation, agency oversight, and planning groups. These positions can be given greater recognition if formalized by a Commission resolution. Commissions also have budgets allocated by the Council, that allow them to spend money on basic functions (office supplies, websites, etc.), as well as bigger investments like community events and grants to organizations.
 
 ## Lexicon
 Advisory Neighborhood Commission
