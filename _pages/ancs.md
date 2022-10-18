@@ -23,7 +23,7 @@ end of borrowed content
 ## Can you be more specific?
 I'd categorize the work into three buckets:
 - **casework:** hearing and conveying details of certain types of projects (examples listed below) within the Commission boundaries and taking the lead on shaping outcomes based on community concerns
-- **bureaucracy:** creating and tracking service requests with various DC (and federal agencies) to secure desired improvements and outcomes for the community
+- **bureaucracy:** creating and tracking service requests with various DC (and federal) agencies to secure desired improvements and outcomes for the community
 - **outreach:** general visibility within the community and offering knowledge and support to working groups, community organizations, or the Council
 
 The logistics of how a Commission approaches work and what is delegated to individual Commissioners depends on the by-laws and formal resolutions of a Commission, as well as the capacity of individual Commissioners. **Official actions** of a Commission must occur in **publicly announced and accessible meetings with a quorum** present, by formal votes on motions. Informational/preparatory matters can be handled in less formal ways as authorized. Commissions have a quarterly allocation of funds from the DC budget based on population represented (~$19k annually for a 7-member Commission in 2023, with savings carried forward indefinitely) to spend on basic functions or outreach projects.
