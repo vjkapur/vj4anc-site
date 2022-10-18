@@ -21,7 +21,7 @@ Beyond the election, I'm open to any and all thoughts on how you'd like to be in
 
 Some near-term priorities include:
 - a unified communication plan for 5C07
-- create a lot of trackers, including:
+- creating a lot of trackers, including:
   - a map of local development
   - a map of Traffic Safety Investigations and other service tickets
   - a staff-informed tracker of facilities issues at Langdon Elementary
