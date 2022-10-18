@@ -17,7 +17,23 @@ I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want
 - If you didn't get your ballot *and* **you aren't sure what SMD you live in**, check the [OpenANC project](http://openanc.org).
 
 ## The Work
-Beyond the election, I'm open to any and all thoughts on how you'd like to be informed about ANC matters and the priorities I should focus on. Check out my [Priorities](/priorities/) and [Issues](/issues/) pages and let me know what works for you and what doesn't. 
+Beyond the election, I'm open to any and all thoughts on how you'd like to be informed about ANC matters and the priorities I should focus on. Check out my [Priorities](/priorities/) and [Issues](/issues/) pages and let me know what works for you and what doesn't.
+
+Some near-term priorities include:
+- a unified communication plan for 5C07
+- create a lot of trackers, including:
+  - a map of local development
+  - a map of Traffic Safety Investigations and other service tickets
+  - a staff-informed tracker of facilities issues at Langdon Elementary
+  - a community calendar with local events
+- writing a lot of issue pages for active development cases
+- continuing to hone my understanding and lend my ideas for issues DC-wide
+
+Depending on how the election goes, we might have a big opportunity to:
+- revisit the 5C bylaws
+- create a unified 5C communication plan
+- possibly stand up committees to get more folks involved in ANC matters and avoid backlogs
+
 
 *[SMD]: Single-Member District
 *[ANC]: Advisory Neighborhood Commission (or Commissioner)
