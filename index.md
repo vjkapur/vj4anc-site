@@ -9,7 +9,7 @@ layout: single
 I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want to make our neighborhood and city safe, vibrant, and welcoming for long-term, new, and future neighbors alike. You can read more about what I'd do as Commissioner on the [Priorities](/priorities/) page. You can find writeups on specific cases and meeting summaries on the [Issues](/issues/) page.
 
 ## The Election
-**Voting has begun!** If you haven't received your ballot in the mail by now (it just so happens I haven't either), be prepared to **vote in-person starting 10/31**; vote **[by COB Tuesday 11/8](https://dcboe.org/Elections/2022-Elections)!**. **Woodridge Library** is your one-stop shop for dropbox, Early in-person, and Election Day voting needs!
+**Voting has begun!** If you haven't received your ballot in the mail by now (it just so happens I haven't either), be prepared to **vote in-person starting 10/31**; vote **[by COB Tuesday 11/8](https://dcboe.org/Elections/2022-Elections)!**. **Woodridge Library** is your one-stop shop for dropbox, Early in-person, and Election Day voting needs! Note well that **a lock on the dropbox does not mean the box is locked**; just push your ballot through the shiny black flap.
 
 
 [![The dropbox](/assets/images/dropbox.jpg)](/assets/images/dropbox.jpg)
@@ -38,7 +38,7 @@ Some near-term priorities include:
 - continuing to hone my understanding and lend my ideas/effort for issues DC-wide
 
 Depending on how the election goes, we might have a big opportunity to:
-- revisit the 5C bylaws
+- revisit [the 5C bylaws](https://www.anc-5c.com/wp-content/uploads/2021/09/2019-03-25-ANC-5C-Bylaws-1-1.pdf)
 - create a unified 5C communication plan
 - possibly stand up committees to get more folks involved in ANC matters and avoid backlogs
 
