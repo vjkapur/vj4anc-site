@@ -9,7 +9,7 @@ layout: single
 I'm [VJ Kapur](/vj/) and I'm running for [ANC](/ancs/) in [5C07](/5c07/). I want to make our neighborhood and city safe, vibrant, and welcoming for long-term, new, and future neighbors alike. You can read more about what I'd do as Commissioner on the [Priorities](/priorities/) page. You can find writeups on specific cases and meeting summaries on the [Issues](/issues/) page.
 
 ## The Election
-- **Voting has begun!** If you haven't received your ballot in the mail by now (it just so happens I haven't either), be prepared to vote in-person starting 10/31; vote [by COB Tuesday 11/8](https://dcboe.org/Elections/2022-Elections)!
+- **Voting has begun!** If you haven't received your ballot in the mail by now (it just so happens I haven't either), be prepared to **vote in-person starting 10/31**; vote **[by COB Tuesday 11/8](https://dcboe.org/Elections/2022-Elections)!**
 - **Woodridge Library** is your one-stop shop for dropbox, Early in-person, and Election Day voting needs!
 - **I'm unopposed on the 5C07 ballot**; nobody is attempting a write-in campaign that I know of, either.
 - **That said**, I've also been endorsed by [Greater Greater Washington](https://ggwash.org/view/86902/our-2022-advisory-neighborhood-commissioner-endorsements-in-ward-5), [DC Voters for Animals](https://twitter.com/DCV4A/status/1574857157425696789?s=20&t=h3TDkZ2IX1wkQIJ4o5FfIw), [former Council Chairwoman candidate Erin Palmer](https://erinfordc.medium.com/%EF%B8%8Fendorsement-alert-%EF%B8%8F-8b3c1e3f881b), and [dANCgerous](https://dancgerous.wordpress.com/).
