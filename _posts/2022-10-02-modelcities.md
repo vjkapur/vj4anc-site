@@ -121,7 +121,7 @@ Unlike the [Langdon Park Forest Patch](https://biologistsoup.wordpress.com/2022/
 
 The Douglas Street Forest Patch covers the entirety of two undeveloped DC-owned plots, part of the plot containing the Model Cities and Office of Aging facilities, and four paper street segments (20th, Douglas, Channing, and Park Ave). The Model Cities building and Office of Aging facilities are to the west, with a shuttle parking facility nestled in the middle of the forest patch. [Langdon Elementary School](https://www.langdonelementaryschool.org/) is across Evarts to the north, and [The Ionia Whipper Home](http://ioniawhipperhome.org/about-us/) (a shelter for families experiencing homelessness) and a few detached houses are around Park Ave to the south.
 
-The Douglas Street Forest Patch is currently the site of frequent dumping, is minimally maintained, and is surrounded by uninviting No Trespassing/Dumping signs.
+The forest patch is currently the site of frequent dumping, is minimally maintained, and is surrounded by uninviting No Trespassing/Dumping signs.
 
 [![Forest Patch](/assets/images/modelcities/forest.jpg)](/assets/images/modelcities/forest.jpg)
 <p class="caption">Forest patch, looking north from Park Ave NE</p>
