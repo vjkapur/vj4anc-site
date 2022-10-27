@@ -57,10 +57,11 @@ In the above map, you can see the service area extending through Fort Lincoln, w
 At the [8/3/2022 5C07 SMD meeting](/issues/20220803-5c07meeting/), Commissioner Montague discussed receiving a very preliminary plan for a possible DC FEMS station in 5C02, just across Evarts from Langdon Elementary School.
 
 These particular plans would include:
-- razing the existing Model Cities building at 1901 Evarts St. NE, and replacing it with a new two-story complex with similarly-sized surface parking lot, accessed by one curb cut on Evarts St.
-- closing a notional portion of 20th St. NE south of Evarts (where it's plotted but unbuilt; there is a patch of trees there now); this might require Council action
+- razing the existing Model Cities building at 1901 Evarts St NE, and replacing it with a new two-story complex with similarly-sized surface parking lot, accessed by one curb cut on Evarts St.
+- paving over a large portion of forest patch, similar to the officially designated [Langdon Park Forest Patch](https://biologistsoup.wordpress.com/2022/10/04/a-little-more-about-langdon-forest-patch/).
+- possibly intruding on two [paper streets](https://wamu.org/story/20/02/17/paper-streets-arent-real-but-they-can-lead-to-big-problems-for-developers/), notional portions of 20th St NE between Evarts and Channing, and Douglas St NE between Queens Chapel Rd and 20th, that were never built (this *might* require Council action to allow)
 - building a FEMS station there, with a large surface parking lot in back, accessed by a second curb cut on Evarts
-- building a vehicle bay on the east side of the FEMS station, with emergency vehicles accessing from a third curb cut on Queens Chapel Rd.
+- building a vehicle bay on the east side of the FEMS station, with emergency vehicles accessing from a third curb cut on Queens Chapel Rd
 
 [![Langdon FEMS proposal](/assets/images/langdon-fems-20220803.png)](/assets/images/langdon-fems-20220803.png)
 <p class="caption">Early Site Plans</p>
@@ -71,9 +72,10 @@ switching from facts to opinion
 
 I have some major concerns with this, including:
 - putting a loud emergency vehicle dispatch right outside Langdon Elementary School, which would disrupt the learning environment
+- putting a loud emergency vehicle dispatch adjacent to a senior living facility and family shelter, which would also be disruptive
 - having emergency vehicles use 20th, Queens Chapel, and/or Franklin for egress; Commissioner Montague mentioned a community benefit of this would be more aggressive snow removal on the roads here, which I'm not compelled by at all. We need traffic calming where 20th St. cuts between Langdon Park's playground and rec center (and everywhere else), and I'd worry that additional emergency vehicles would be used by DDOT to justify not acting on that.
 - having additional curb cuts on a sidewalk where children are likely to be walking; I'm not sure why the two parking facilities couldn't share a curb cut or be consolidated entirely
-- removing trees primarily to add surface parking lots, which is an inherently poor use of the land. If this much parking is really necessary, this might be a candidate for a second underground parking garage in the neighborhood, after the one at [2026 Jackson](/issues/2026jackson/)
+- removing parts of the [forest patch](#the-forest-patch), which would be problematic enough, but also primarily to add surface parking lots, which is an inherently poor use of the land. If this much parking is really necessary, this might be a candidate for a second underground parking garage in the neighborhood, after the one at [2026 Jackson](/issues/2026jackson/)
 
 [![DC Government Property](/assets/images/modelcities/no-trespassing.png)](/assets/images/modelcities/no-trespassing.png)
 <p class="caption">DC Government Property sign at the site</p>
@@ -101,12 +103,39 @@ The permit now appears as `Approved Pending Payment` in the TOPS system. You can
 
 I will attempt to get more information on this particular application/permit and report back. There is already construction fencing erected at the site.
 
+## Attempts to get further info on active plans
+
+|venue|date|result|
+|---|---|---|
+|email to Emeka Nwabunwanne, DGS Sr. Project Manager listed on permit|10/24/2022|no response yet|
+
+## The Forest Patch
+Thanks to Allison Clausen, Langdon Park Forest Patch volunteer, for helping with the below.
+{: .notice--info}
+The E26 plans would disrupt a forest patch that currently sits in the area.
+
+Unlike the [Langdon Park Forest Patch](https://biologistsoup.wordpress.com/2022/10/04/a-little-more-about-langdon-forest-patch/), which is officially designated and already protected as part of Langdon Park, the patch of forest that these plans would disrupt does not have a name. For now, I'll be using the shorthand **Douglas Street Forest Patch**, after one of the [paper streets](https://wamu.org/story/20/02/17/paper-streets-arent-real-but-they-can-lead-to-big-problems-for-developers/) it covers.
+
+[![Real Property Map](/assets/images/modelcities/plats.png)](/assets/images/modelcities/plats.png)
+<p class="caption">Platted land, snapshotted from DC's <a href="https://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=9a5c11c11dd347cc9c05d64499cc98ee">Real Property Map</a></p>
+
+The Douglas Street Forest Patch covers the entirety of two undeveloped DC-owned plots, part of the plot containing the Model Cities and Office of Aging facilities, and four paper street segments (20th, Douglas, Channing, and Park Ave). The Model Cities building and Office of Aging facilities are to the west, with a shuttle parking facility nestled in the middle of the forest patch. [Langdon Elementary School](https://www.langdonelementaryschool.org/) is across Evarts to the north, and [The Ionia Whipper Home](http://ioniawhipperhome.org/about-us/) and a few detached houses are around Park Ave to the south. The forest patch is currently the site of frequent dumping, is minimally maintained, and is surrounded by uninviting No Trespassing/Dumping signs.
+
+[![Forest Patch](/assets/images/modelcities/forest.jpg)](/assets/images/modelcities/forest.jpg)
+<p class="caption">Forest patch, looking north from Park Ave NE</p>
+
+The forest patch sits on a slope and absorbs/filters stormwater that would otherwise flow to the industrial sites at the bottom of the hill, ultimately reaching Hickey Run and then the Anacostia. It absorbs particulate matter and noise pollution from the PDR zones (that would otherwise affect the seniors and students). It cools the air, offsetting the area's extreme [heat island effect](https://www.dcpolicycenter.org/publications/urban-heat-islands/). It helps towards [DC's 40% canopy goal](https://storymaps.arcgis.com/stories/62580ba81fc34563b1bae8e8416ee16d) and plays a part in [slowing climate change](https://www.rainforest-alliance.org/insights/how-forests-fight-climate-change/). It also provides habitat for migratory species and supports the city's ecosystem. Research also shows living near trees makes people [happier](https://www.mdpi.com/1660-4601/15/12/2804) and [healthier](https://www.washingtonpost.com/news/energy-environment/wp/2015/07/09/scientists-have-discovered-that-living-near-trees-is-good-for-your-health/).
+
+Efforts could conceivably be made to clean up, nurture, and protect this forest patch, while making it available to visitors as with the recently built 680-foot Langdon Park Forest Patch trail.
+
+
 *[DPR]: DC Department of Parks and Recreation
 *[FEMS]: DC Fire and Emergency Medical Services
 *[DCRA]: DC Department of Consumer and Regulatory Affairs
 *[DDOT]: DC Department of Transportation
 *[E26]: DC FEMS Engine Company 26
 *[RFP]: Request for Proposal
+*[PDR]: Production, Distribution, and Repair
 
 <script>
 var map = L.map('development-map',  {
