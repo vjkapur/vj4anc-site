@@ -142,18 +142,26 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/vjkapur
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: https://thepit.social/@vj
+    - label: "Nextdoor"
+      url: https://nextdoor.com/profile/01SfSfJGQYXH8HQ3m
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://facebook.com/vkapur
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: https://instagram.com/vjkapur
-    - label: "Nextdoor"
-      url: https://nextdoor.com/profile/01SfSfJGQYXH8HQ3m
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/vjkapur
-
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: https://discord.com/users/663036621972701186
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: https://instagram.com/vjkapur
+    - label: "tiktok"
+      icon: "fab fa-fw fa-tiktok"
+      url: https://www.tiktok.com/@vjkapurdc
 
 # Reading Files
 include:
